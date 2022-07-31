@@ -1,5 +1,5 @@
 # Botnet_Woazo
-A botnet who work only in a local network - Can do a DDoS attack
+A botnet - Can do a DDoS attack (and know how to cook an egg)
 
 /!\ THIS IS FOR EDUCATIONAL PURPOSE ONLY /!\ 
 
@@ -11,6 +11,7 @@ Here is the list of things you can do :
 - Cmd  : Send command to all your bots
 - Refresh : When there are new vitcims, hit refresh to accept the connection
 - Flood : Execute a DDoS attack against a victim. Once you hit that command and hit enter, you must specify the target ip, the target port and the number of packets you want to send (2500 packets = 10sec), all separated by ":". For example : 1.1.1.1:80:2500. And bam! All your bots will send packets to the victim. More you have bots, more powerful it is.
+- How to cook an egg : Teach you how to cook an egg
 - Close : Close all connections with your bots.
 
 Be free to change the script as you want and add more feature.
