@@ -70,17 +70,21 @@ while True:
                         / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
                         /_==__==========__==_ooo__ooo=_/'   /___________,"
                         `-----------------------------'
-                |-- Help: -----------------------------------------------------------------|
-                |  help              : Display this help screen                            |
-                |  cmd               : Send a command to all bots                          |
-                |  refresh           : Refresh request from bots to the server             |
-                |  flood             : Execute a DDoS attack with bots you have            |
-                |  close             : Close all connections with bots and stop the server |
-                |--------------------------------------------------------------------------|
+                |-- Help: ------------------------------------------------------------------|
+                |  help               : Display this help screen                            |
+                |  cmd                : Send a command to all bots                          |
+                |  refresh            : Refresh request from bots to the server             |
+                |  flood              : Execute a DDoS attack with bots you have            |
+                |  how to cook an egg : Teach you how to cook an egg                        |
+                |  close              : Close all connections with bots and stop the server |
+                |---------------------------------------------------------------------------|
                 """)
             if(cmd == "refresh"):
                 break
-
+            
+            if(cmd == "how to cook an egg"):
+                print("\nWell, you can cook an egg by putting butter in a pan, and then, break your egg and put it in the pan too (pay attention to pieces of shells)")
+            
             if(cmd == "cmd"):
                 x = 0
                 z_command = input("\nCommand: ")
