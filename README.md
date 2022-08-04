@@ -14,7 +14,9 @@ Here is the list of things you can do :
 - How to cook an egg : Teach you how to cook an egg
 - Close : Close all connections with your bots.
 
-Be free to change the script as you want and add more feature.
+Feel free to change the script as you want and add more feature.
+
+**Persistent and BTC miner coming soon**
 
 You can also use pyinstaller to make an executable of the client so the victim won't need to download python and dependencies.You can also change the port if you want but you will need to change the port also in the server script.
 
